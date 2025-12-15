@@ -35,7 +35,7 @@ TrueBalance is a mobile app for personal finance management, helping users track
 ---
 
 📲 **Download**
-- Android: Coming soon 📱  
+- Android: [APK Download](https://github.com/NedAbed/truebalanceApp/releases/tag/v1.0)
 - iOS: Coming soon 🍏
 
 ---
