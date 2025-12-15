@@ -1,4 +1,4 @@
-# ⚖️ TrueBalance
+# 💳 TrueBalance
 
 TrueBalance is a mobile app for personal finance management, helping users track their income, expenses, and overall balance efficiently with an intuitive interface.
 
