@@ -42,9 +42,9 @@ TrueBalance is a mobile app for personal finance management, helping users track
 
 ## 📸 Screenshots
 <div float="left">
-  <img src="screenshots/homeScreen.png" width="200"/><img src="screenshots/addTransaction.png" width="200"/><img src="screenshots/transactionList.png" width="200"/><img src="screenshots/balanceSummary.png" width="200"/>
+  <img src="screenshots/logoScreen.png" width="200"/><img src="screenshots/welcomeScreen.png" width="200"/><img src="screenshots/signinScreen.png" width="200"/><img src="screenshots/signupScreen.png" width="200"/>
 </div>
 <div float="left">
-  <img src="screenshots/categorySelect.png" width="200"/><img src="screenshots/settings.png" width="200"/>
+  <img src="screenshots/homeScreen.png" width="200"/><img src="screenshots/addtransactionScreen.png" width="200"/><img src="screenshots/settingsScreen.png" width="200"/><img src="screenshots/languageScreen.png" width="200"/>
 </div>
 
